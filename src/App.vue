@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <h1>{{ msg }}</h1>
-    <a href="#">继续</a>
+    <a href="#">下一步</a>
   </div>
 </template>
 
